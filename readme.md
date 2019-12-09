@@ -14,6 +14,8 @@
 
 ![build](https://github.com/rajeshso/CodeClubCorda/workflows/BuildwithGradle/badge.svg)
 
+![](https://github.com/rajeshso/CodeClubCorda/workflows/.github/workflows/ci.yml/badge.svg)
+
 # Introduction
 
 **The Cordacademy template is designed for building Corda applications with out-of-the-box functionality that "just works".**
