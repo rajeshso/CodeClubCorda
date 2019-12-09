@@ -14,7 +14,7 @@
 
 ![build](https://github.com/rajeshso/CodeClubCorda/workflows/BuildwithGradle/badge.svg)
 
-![](https://github.com/rajeshso/CodeClubCorda/workflows/.github/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rajeshso/CodeClubCorda/workflows/.github/workflows/ci.yml/badge.svg)
 
 # Introduction
 
