@@ -12,7 +12,7 @@
 8. [Contribution](#contribution)
 
 
-![](https://github.com/rajeshso/CodeClubCorda/workflows/BuildwithGradle/badge.svg)
+![build](https://github.com/rajeshso/CodeClubCorda/workflows/BuildwithGradle/badge.svg)
 
 # Introduction
 
